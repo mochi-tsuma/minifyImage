@@ -1,0 +1,2 @@
+# minifyImage
+use TinyPng
